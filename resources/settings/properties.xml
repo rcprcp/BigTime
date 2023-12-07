@@ -1,0 +1,7 @@
+<properties>
+
+    <property id="UseMilitaryFormat" type="boolean">true</property>
+    <property id="TextColor" type="number">0</property>
+    <property id="CenterColor" type="number">2</property>
+    <property id="EdgeColor" type="number">3</property>
+</properties>

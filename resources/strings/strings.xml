@@ -1,0 +1,29 @@
+<strings>
+
+    <string id="AppName">BigTime</string>
+
+    <string id="BigTimeTitle">Time in 24-hour format in huge font with gradient background</string>
+
+    <string id="UseMilitaryTimeFormat">Use Military Time Format (24 hour)</string>
+
+    <string id="EdgeColor">Select Edge Color</string>
+    <string id="CenterColor">Select Center Color</string>
+    <string id="TextColor">Select Text Color</string>
+    
+    <string id="ColorWhite">White</string>
+    <string id="ColorBlack">Black</string>
+    <string id="ColorBlue">Blue</string>
+    <string id="ColorLightSkyBlue">Light Sky Blue</string>
+    <string id="ColorGreen">Dark Green</string>
+    <string id="ColorLightGreen">LightGreen</string>
+    <string id="ColorDarkYellow">Dark Yellow</string>
+    <string id="ColorLemonChiffon">Light Yellow</string>
+    <string id="ColorRed">Red</string>
+    <string id="ColorPink">Pink</string>
+    <string id="ColorDarkViolet">Dark Violet</string>
+    <string id="ColorPlum">Plum</string>
+    <string id="ColorSaddleBrown">Dark Brown</string>
+    <string id="ColorSandyBrown">Light Brown</string>
+    <string id="ColorDarkPink">Bright Pink</string>
+    <string id="ColorLawnGreen">Bright Green </string>
+</strings>
