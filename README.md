@@ -1,1 +1,1 @@
-﻿Gradient-based watch face for Venu watches (and probalby on other AMOLED/OLED screen watches).   Without the Gradient feature, this code can work on a vast array of Garmin watches.  It has been tested via simulator on many models. 
+﻿Gradient-based watch face for Garmin Venu watches (and probalby on other Garmin AMOLED/OLED screen watches).   Without the Gradient feature, this code can work on a vast array of Garmin watches.  It has been tested via simulator on many models. 
